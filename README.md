@@ -1,6 +1,6 @@
-# Arax.Blazorise.Server.Templates
+# **Arax Blazorise Server Templates**
 
-Ready to use [Blazorise](http://blazorise.com/) project templates.  
+Ready to use [Blazorise](http://blazorise.com/) server project templates.  
 Includes Bootstrap 4, Bootstrap 5,Material,AntDesign, Bulma.
 
 **Installing :** [**Arax Blazorise Server**](https://marketplace.visualstudio.com/items?itemName=meisamalifallahi.AraxBlazoriseServer)
